@@ -1,20 +1,5 @@
 import Container from "./container";
 import React from "react";
-import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
-
-const items = [
-  { name: "Github", icon: FaGithub, link: "https://github.com/minocrafft" },
-  {
-    name: "Instagram",
-    icon: FaInstagram,
-    link: "https://www.instagram.com/mainho._",
-  },
-  {
-    name: "Linkedin",
-    icon: FaLinkedin,
-    link: "https://linkedin.com/in/minocraft",
-  },
-];
 
 const Footer = () => {
   return (
