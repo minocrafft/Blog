@@ -10,7 +10,7 @@ const Footer = () => {
             If you want to know more about me.
           </h3>
 
-          <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
+          <div className="flex flex-col md:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             <a
               href="https://github.com/minocrafft"
               className="mx-3 bg-black text-white border border-black hover:bg-white hover:text-black font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
